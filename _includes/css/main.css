@@ -37,6 +37,7 @@ code, pre {
   word-wrap: break-word;
 }
 
+
 /* block code */
 pre code { background: none; display: block; }
 pre {
@@ -105,6 +106,11 @@ hr {
   *display:inline;
 }
 
+.threeStep{
+	float:left;
+	padding:10px;
+	width:33%;
+}
 /* ---------------------------*/
 /* ----- Main Structure ----- */
 /* ---------------------------*/
